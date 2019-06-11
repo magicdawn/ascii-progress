@@ -57,7 +57,7 @@ These are keys in the options object you can pass to the progress bar along with
 - `fixedWidth` - do not adjust the bar based on the terminal size
 - `filled`- completion character. Default `"▇"`.
 - `blank` - blank character. Default `"-"`.
-- `clear` - clear the progress bar on completion. Default `false`.
+- `clean` - clear the progress bar on completion. Default `false`.
 - `callback` -  optional function to call when the progress bar completes.
 
 
