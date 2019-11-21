@@ -1,7 +1,7 @@
 var ansi = require('ansi.js');
 var endWith = require('end-with');
 var startWith = require('start-with');
-var getCurosrPos = require('get-cursor-position');
+var getCurosrPos = require('@magicdawn/get-cursor-position');
 var newlineEvent = require('on-new-line');
 
 var stream = process.stdout;

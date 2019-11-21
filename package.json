@@ -32,7 +32,7 @@
   "dependencies": {
     "ansi.js": "0.0.5",
     "end-with": "^1.0.2",
-    "get-cursor-position": "^1.0.4",
+    "@magicdawn/get-cursor-position": "^1.0.4",
     "on-new-line": "1.0.0",
     "start-with": "^1.0.2"
   }
